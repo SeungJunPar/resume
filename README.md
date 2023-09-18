@@ -1,6 +1,6 @@
-# Resume 2021.9
+# Resume 2023.09
 
-### [엄지수](https://thumbsu.dev/)
+### [박승준](https://thumbsu.dev/)
 <img src="./static/profile.jpeg" width="100px">
 
 ---
